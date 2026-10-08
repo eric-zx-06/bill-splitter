@@ -1,0 +1,4 @@
+venv/
+bill.db
+__pycache__/
+*.pyc
