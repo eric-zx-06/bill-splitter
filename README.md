@@ -2,6 +2,8 @@
 
 A simple web app for splitting group expenses with friends. Log who paid for what, and get everyone's net balance plus the simplest settlement plan — who pays whom, in the fewest transfers.
 
+**Live demo:** https://eric-billsplitter.streamlit.app/
+
 ## Features (v1.0)
 
 - Create groups and add members
